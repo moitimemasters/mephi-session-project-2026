@@ -1,0 +1,6 @@
+ID     | Command line                                                          | Date and time    | Action(s)      | Altered
+----------------------------------------------------------------------------------------------------------------------------
+     4 | install -y dnf-plugins-core acl libcap policycoreutils-python-utils p | 2026-11-02 16:38 | Install        |    8   
+     3 | install -y nginx libcap-ng-utils                                      | 2026-11-02 16:37 | Install        |    9   
+     2 | upgrade --refresh -y                                                  | 2026-11-02 16:37 | I, O, U        |  130 E<
+     1 |                                                                       | 2026-11-02 16:08 | Install        |  551 >E
